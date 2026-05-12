@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 public class aq2{
-    public static void main( String args []){
+    public static void main( String [] args ){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter value of pencil :");
         float pencil = sc.nextFloat();
