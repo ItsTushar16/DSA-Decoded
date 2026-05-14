@@ -27,7 +27,7 @@ Each topic contains:
 - Java programs
 - Syntax examples
 - Important points
-- Interview/Viva questions
+- Theory questions
 - Practice code
 
 
