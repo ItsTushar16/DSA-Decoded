@@ -1,4 +1,4 @@
-# Functions & Number System in Java ⚙️
+# Functions in Java ⚙️
 
 Functions help us organize code into reusable blocks.
 
