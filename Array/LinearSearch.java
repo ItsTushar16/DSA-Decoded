@@ -17,7 +17,5 @@ public class LinearSearch{
         System.out.println("key1 is at index "+ index1);     // 2
         System.out.println("key2 is at index "+ index2);     // -1
 
-
-        
     }
 }
