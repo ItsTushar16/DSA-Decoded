@@ -1,10 +1,10 @@
 public class RevArray{
     public static void revArr(int num[]){
-        int start=0,end=num.length;
+        int start=0,end=num.length-1;
         while(start<end){
             int temp= num[start];
             num[start]=num[end];
-            num[end]=num[temp];
+            num[end]=temp;
             start++;
             end--;
         }
