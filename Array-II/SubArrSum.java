@@ -1,3 +1,4 @@
+// Maximum Subarray Sum using Prefix Sum
 public class SubArrSum{
     public static void subArrSum(int num[]){
         int totalSubArr=0;
